@@ -1,0 +1,28 @@
+body
+{
+
+    background-color: lightblue;
+    font-family: 'Quicksand', sans-serif;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+b
+{
+
+ font-family: 'Quicksand', sans-serif;
+ color: darkred;
+}
+#camera
+{
+    border: 2px dotted rgb(63, 73, 47);
+    width: 350px;
+    height: 350px;
+}
+hr
+{
+ 
+    height: 10px;
+}
